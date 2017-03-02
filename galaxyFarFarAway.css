@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'StarWarsFont';
+    src: url("Starjhol.tff");
+}
+
+body{
+    background-image: url("background.jpg");
+    color: white;
+}
+
+li{
+    list-style: none;
+}
+
+#planetName{
+    font-family: 'StarWarsFont';
+}
+
+#planetInfoList{
+    
+}
+
+#planetBox{
+    color: white;
+}
+
+#fullList{
+    float: right;
+    color: white;
+    font-size: 2em;
+}
+
+
